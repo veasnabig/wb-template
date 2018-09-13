@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'KhmerOSFasthand';
+    src:url('../assets/fonts/KhmerOSFasthand.ttf?zcpscj') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KhmerOSFreehand';
+    src:url('../assets/fonts/KhmerOSFreehand.ttf?zcpscj') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KhmerOSKoulen';
+    src:url('../assets/fonts/KhmerOSKoulen.ttf?zcpscj') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NiDATaprom';
+    src:url('../assets/fonts/NiDATaprom.ttf?zcpscj') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
